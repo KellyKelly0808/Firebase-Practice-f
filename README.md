@@ -1,3 +1,2 @@
 # Firebase-Practice-f
-Node.js/Express.js
-#Firebase
+Node.js/Express.js/Firebase
